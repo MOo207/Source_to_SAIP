@@ -1,7 +1,0 @@
-# GUI Interface Screenshot
-This is a placeholder for the GUI interface screenshot showing:
-- Input directory selection
-- Output PDF specification
-- Progress bar
-- Log display
-- Generate PDF button

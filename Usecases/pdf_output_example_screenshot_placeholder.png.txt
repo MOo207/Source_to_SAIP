@@ -1,6 +1,0 @@
-# PDF Output Example Screenshot
-This is a placeholder for the PDF output example screenshot showing:
-- Generated PDF with organized source code
-- File headers and proper formatting
-- Multiple files in a single document
-- Clean, professional layout
