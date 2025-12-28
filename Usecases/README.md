@@ -4,12 +4,6 @@
 
 This application is specifically designed to support intellectual property rights applications, particularly for computer program source code documentation. Below are the key use cases:
 
-### Problem Statement:
-- **When applying for intellectual property rights as Mohammed Ismail, I encountered issues with the "authored type computer program" requirement which mandates including the complete source code within a PDF file for submission.**
-
-### Solution:
-- **This script (repo_to_saip.py) automatically generates a comprehensive PDF report containing all source code files from a selected directory or archived codebase, while respecting .gitignore files to exclude irrelevant files (like build artifacts, temporary files, logs, etc.).**
-
 ### 1. Complete Source Code Compilation for IP Applications
 - **Scenario**: When applying for intellectual property rights, you need to submit complete source code in PDF format
 - **Solution**: The application compiles all source code files from a directory into a single, organized PDF document
