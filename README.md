@@ -36,8 +36,6 @@ python repo_to_saip.py  # Launch GUI interface
 
 ## 📸 Screenshots
 
-### Command Line Usage
-
 ### GUI Interface
 ![GUI Interface](https://github.com/MOo207/Source_to_SAIP/blob/master/Usecases/dirs%20showcase.png?raw=true)
 
@@ -61,18 +59,6 @@ python repo_to_saip.py  # Launch GUI interface
 - 🔄 **Project Handoffs**: Complete handover documentation
 - 💾 **Backup**: Source code preservation in PDF
 - ⚖️ **Legal Discovery**: Organized code for legal proceedings
-
-## Screenshots
-
-### GUI Interface
-![GUI Usage](https://github.com/MOo207/Source_to_SAIP/blob/master/Usecases/dirs%20showcase.png?raw=true)
-
-*Graphical user interface showing directory selection, output configuration, and progress tracking.*
-
-### PDF Output Example
-![PDF Output Example](https://github.com/MOo207/Source_to_SAIP/blob/master/Usecases/directory_report.pdf?raw=true)
-
-*Example of the generated PDF showing organized source code with proper formatting and file headers.*
 
 ## 💡 Pro Tips
 
