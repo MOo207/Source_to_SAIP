@@ -37,17 +37,14 @@ python repo_to_saip.py  # Launch GUI interface
 ## 📸 Screenshots
 
 ### Command Line Usage
-![Command Line Usage](https://github.com/MOo207/Source_to_SAIP/blob/master/Usecases/command_line_usage_screenshot_placeholder.png.txt?raw=true)
-
-*Command line interface showing the tool execution with input parameters and progress indicators.*
 
 ### GUI Interface
-![GUI Interface](https://github.com/MOo207/Source_to_SAIP/blob/master/Usecases/gui_interface_screenshot_placeholder.png.txt?raw=true)
+![GUI Interface](https://github.com/MOo207/Source_to_SAIP/blob/master/Usecases/dirs%20showcase.png?raw=true)
 
 *Graphical user interface showing directory selection, output configuration, and progress tracking.*
 
 ### PDF Output Example
-![PDF Output Example](https://github.com/MOo207/Source_to_SAIP/blob/master/Usecases/pdf_output_example_screenshot_placeholder.png.txt?raw=true)
+[PDF output example](https://github.com/MOo207/Source_to_SAIP/blob/master/Usecases/directory_report.pdf?raw=true)
 
 *Example of the generated PDF showing organized source code with proper formatting and file headers.*
 
