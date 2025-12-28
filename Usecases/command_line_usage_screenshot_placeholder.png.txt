@@ -1,0 +1,6 @@
+# Command-Line Usage Screenshot
+This is a placeholder for the command-line usage screenshot showing:
+- Terminal/command prompt execution
+- Input and output parameters
+- Progress indicators
+- Success/failure messages
